@@ -1,0 +1,199 @@
+  
+a {
+	text-decoration: none;
+	color: #525050;
+}
+
+body {
+	font-size: 12px;
+	background-color: #9eecec;
+	font-family: Arial;
+	box-sizing: border-box;
+}
+
+.nav-bar{
+	display: block;
+	width: 100%;
+	overflow: hidden;
+}
+
+.nav-bar a{
+	display: inline-block;
+	margin-top: 21px;
+}
+
+.about{
+	float: left;
+	display: inline-block;
+	width:3.75%;
+	height: 40px;
+	text-align: right;
+}
+
+.store{
+	float: left;
+	display: inline-block;
+	width: 3.75%;
+	height: 40px;
+	text-align: left;
+	margin-left: 15px;
+}
+
+.gmail{
+	float: right;
+	display: inline-block;
+	width: 3.5%;
+	height: 40px;
+}
+
+.images{
+	float: right;
+	display: inline-block;
+	width: 3.5%;
+	height: 40px;
+}
+
+.apps {
+	float: right;
+	display: inline-block;
+	width: 2%;
+	margin-top: 15px;
+}
+
+.apps img {
+	display: inline-block;
+	float: right;
+}
+
+.signin {
+	display: inline-block;
+	float: right;
+	text-align: center;
+	width: 8%;
+	height: 50px;
+	
+}
+
+.signin button {
+	display: inline-block;
+	height: 30px;
+	width: 55%;
+	border: 0;  
+	position: relative;
+	top: 15px;
+	right: 1px;
+	color: #fff;
+	background-color: #3f88f5;
+	border-radius: 3px;
+}
+
+.logo {
+	display: block;
+	margin: 135px auto 30px auto;
+}
+
+.boxes {
+	display: block;
+	width: 100%;
+	text-align: center;
+	height: 30px;
+	padding: 30px;
+}
+
+.submit {
+	display: inline-block;
+	color: #5a5959;
+	background-color: #f0f0f0;
+	height: 35px;
+	width: 120px;
+	font-size: 14px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	text-decoration: none;
+	border: none;
+	margin: 30px 15px 25px 0;
+}
+
+.searchbar {
+	text-align: center;
+}
+
+.voice {
+	position: relative;
+	right: 40px;
+	top: 5px;
+}
+
+.input {
+	display: inline-block;
+	border-radius: 25px;
+	width: 550px;
+	height: 42px;
+	font-size: 16px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	text-decoration: none;
+	border: 1px #dbdbdb solid
+}
+
+.lucky{
+	display: inline-block;
+}
+
+.footer{
+	display: block;
+	position: fixed;
+	bottom: 15px;
+	width: 100%;
+}
+
+.upper {
+	display: block;
+	width: 100%;
+	text align: left;
+	padding-left: 25px;
+	height: 40px;
+	font-size: 16px;
+}
+
+.lower {
+	display: block;
+	width: 100%;
+	padding-left: 25px;
+}
+
+.advertising {
+	display: inline-block;
+	float: left;
+	width: 5.5%;
+}
+
+.business {
+	display: inline-block;
+	float: left;
+	width: 5%;
+	margin-left: 5px;
+}
+
+.settings {
+	display: inline-block;
+	float: right;
+	width: 5%;
+}
+
+.settings a {
+	display: inline-block;
+	float: left;
+}
+
+.terms {
+	display: inline-block;
+	float: right;
+	width: 4%;
+}
+
+.privacy {
+	display: inline-block;
+	float: right;
+	width: 4%;
+}
